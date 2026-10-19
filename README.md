@@ -82,4 +82,3 @@ Upon initialization, the script will load the SAM3 image, tracker, and video mod
 ### **License and Source**
 
 * **License:** SAM License (Available at [LICENSE.txt](https://github.com/PRITHIVSAKTHIUR/SAM3-Gemma4-CUDA/blob/main/LICENSE.txt))
-* **GitHub Repository:** [https://github.com/PRITHIVSAKTHIUR/SAM3-Gemma4-CUDA.git](https://github.com/PRITHIVSAKTHIUR/SAM3-Gemma4-CUDA.git)
